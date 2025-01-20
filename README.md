@@ -31,8 +31,9 @@ Let's build something amazing together! 😊
 ---
 
 ### 📫 How to Reach Me:  
-- 📧 Email:(mailto:maryamkalantaria72@gmail.com)  
-- 💬 Telegram:(https://t.me/@Maryam_080)  
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/Maryam_080)
+
+
 
 ---
 
