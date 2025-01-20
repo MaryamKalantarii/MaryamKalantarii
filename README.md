@@ -55,8 +55,6 @@ Let's build something amazing together! 😊
 ![LPIC](https://img.shields.io/badge/-LPIC-black)  
 ![Networking](https://img.shields.io/badge/-Networking-blueviolet)
 
-Languages and Tools:
-aws css3 django docker flask git heroku html5 javascript linux mongodb mysql opencv postgresql postman python pytorch rabbitMQ redis scikit_learn sqlite tailwind tensorflow fastapi
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamKalantarii&show_icons=true&theme=radical)
