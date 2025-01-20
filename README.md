@@ -26,7 +26,7 @@ Check out [My Latest Project](https://link-to-your-project) showcasing my skills
 ---
 
 Let's build something amazing together! 😊 
-### 📱 ارتباط با من:
+
 
 ---
 
@@ -36,7 +36,7 @@ Let's build something amazing together! 😊
 
 ---
 
-### 🛠 زبان‌ها و ابزارهای من:
+
 ### 🛠 Skills & Technologies:  
 
 ![Python](https://img.shields.io/badge/-Python-blue)  
