@@ -32,7 +32,7 @@ Let's build something amazing together! 😊
 
 ### 📫 How to Reach Me:  
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/Maryam_080)
-
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:maryamkalantaria72@gmail.com)
 
 
 ---
