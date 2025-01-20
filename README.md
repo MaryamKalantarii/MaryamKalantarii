@@ -77,15 +77,3 @@ Let's build something amazing together! 😊
 
 ---
 
-### 🎨 Styling & Animations Example
-
-```css
-@keyframes hoverEffect {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-
-.icon:hover {
-  animation: hoverEffect 0.5s ease-in-out;
-}
