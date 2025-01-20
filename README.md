@@ -13,13 +13,6 @@
 - 🚀 **Versatile Skills**:  
   I have experience with **FastAPI**, **LPIC**, and networking concepts, making me well-rounded in both development and system administration.  
 
-- 👩‍💻 **My Projects**:  
-Check out [My Latest Project](https://github.com/MaryamKalantarii/IranMarket) showcasing my skills in backend and frontend development.  
-  
-
-- 📫 **How to Reach Me**:  
-  Feel free to contact me at [maryamkalantaria72@gmail.com].  
-
 - ⚡️ **Fun Fact**:  
   I enjoy exploring the intersection of backend scalability and seamless frontend user experiences!  
 
