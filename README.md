@@ -1,4 +1,4 @@
-<div style="background-color: #f0f8ff; padding: 20px;">
+<div style="background-color: red; padding: 20px;">
 <h1>Hi 👋, I'm Maryam</h1>
   <p>A Passionate Full-Stack Developer from Iran</p>
 </div>  
