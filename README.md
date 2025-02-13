@@ -16,14 +16,10 @@
 - ⚡️ **Fun Fact**:  
   I enjoy exploring the intersection of backend scalability and seamless frontend user experiences!  
 
-# 🚀 My Projects
-
-
-Here is a list of projects that I have deployed on hosting and domain. Each of these projects is the result of hours of effort and creativity. Hope you like them! 😎
 
 # 🚀 Django Queen Projects  
 
-We are a team of professional **Django developers** passionate about building creative and powerful web applications and APIs. In this repository, you can explore some of our work.  
+We are a team of professional **Django developers** passionate about building creative and powerful web applications and APIs. In this repository, you can explore some of our work.We are a team of professional Django developers passionate about building creative and powerful web applications and APIs. In this repository, you can explore some of our work.Each of these projects is the result of hours of effort and creativity. Hope you like them! 😎  
 
 ## 👑 About **Django Queen**  
 
