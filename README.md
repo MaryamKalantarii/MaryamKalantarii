@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Maryam</h1>
-  <p>A Passionate Full-Stack Developer from Iran</p>
+  <p>A Passionate Full-Stack Developer👩🏻‍💻 from Iran</p>
 
 ---
 
