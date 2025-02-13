@@ -25,6 +25,13 @@ Here is a list of projects that I have deployed on hosting and domain. Each of t
 
 We are a team of professional **Django developers** passionate about building creative and powerful web applications and APIs. In this repository, you can explore some of our work.  
 
+## 👑 About **Django Queen**  
+
+We are an enthusiastic team of Django developers focused on building scalable and modern applications. Our goal is to deliver optimized and user-friendly solutions for businesses of all sizes.  
+
+📌 See more of our work on Instagram:  
+[![Instagram](https://img.shields.io/badge/Follow%20Us-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourteam) 
+
 ## 🌐 Live Projects
 
 
