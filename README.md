@@ -29,11 +29,8 @@ Hello! Here is a list of projects that I have deployed on hosting and domain. Ea
 
 |---------|---------|
 
-| Project 1 | [View](https://yourdomain.com/project1) |
+| Project 1 | [View](https://aratwood.ir) |
 
-| Project 2 | [View](https://yourdomain.com/project2) |
-
-| Project 3 | [View](https://yourdomain.com/project3) |
 
 
 ## 📢 About These Projects
