@@ -16,6 +16,36 @@
 - ⚡️ **Fun Fact**:  
   I enjoy exploring the intersection of backend scalability and seamless frontend user experiences!  
 
+# 🚀 My Projects
+
+
+Hello! Here is a list of projects that I have deployed on hosting and domain. Each of these projects is the result of hours of effort and creativity. Hope you like them! 😎
+
+
+## 🌐 Live Projects
+
+
+| 📌 Project | 🔗 Link |
+
+|---------|---------|
+
+| Project 1 | [View](https://yourdomain.com/project1) |
+
+| Project 2 | [View](https://yourdomain.com/project2) |
+
+| Project 3 | [View](https://yourdomain.com/project3) |
+
+
+## 📢 About These Projects
+
+
+- 🔥 All these projects have been developed with passion and high motivation.
+
+- 🛠 Technologies used: (Write the technologies you have used here)
+
+- 💡 Share your thoughts and suggestions with me!
+
+
 ---
 
 Let's build something amazing together! 😊 
