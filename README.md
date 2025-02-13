@@ -32,6 +32,10 @@ We are an enthusiastic team of Django developers focused on building scalable an
 📌 See more of our work on Instagram:  
 [![Instagram](https://img.shields.io/badge/Follow%20Us-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourteam) 
 
+---
+
+✨ **Stay connected with us and follow our journey for upcoming projects!**
+
 ## 🌐 Live Projects
 
 
