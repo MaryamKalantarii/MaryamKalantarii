@@ -2,7 +2,7 @@
 <p align="center">💻 Full-Stack Developer | 🐍 Python & Django Lover | 🇮🇷 Based in Iran</p>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="400" alt="coding-girl-animation" />
+  <img src="https://media.tenor.com/1z5Z5B5Z5Z4AAAAC/matrix-code-purple.gif" width="400" alt="purple-code-rain" />
 </p>
 
 ---
