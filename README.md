@@ -2,7 +2,7 @@
 <p align="center">💻 Full-Stack Developer | 🐍 Python & Django Lover | 🇮🇷 Based in Iran</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5Fo3A3K3W3a0Ftj1rl/giphy.gif" width="400" alt="coding-girl" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="woman-coding" />
 </p>
 
 ---
