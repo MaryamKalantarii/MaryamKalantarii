@@ -5,6 +5,11 @@
   <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="400" alt="coding-girl-animation" />
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -32,6 +37,3 @@
 ### 📊 GitHub Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaryamKalantarii&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamKalantarii&layout=compact&theme=radical" width="47%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamKalantarii&theme=radical" width="60%" /> </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
