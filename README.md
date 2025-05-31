@@ -32,6 +32,4 @@
 ### 📊 GitHub Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaryamKalantarii&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamKalantarii&layout=compact&theme=radical" width="47%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamKalantarii&theme=radical" width="60%" /> </p>
 
-<p align="center">
-  <img src="https://github.com/MaryamKalantarii/MaryamKalantarii/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
