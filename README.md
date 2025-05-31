@@ -2,7 +2,7 @@
 <p align="center">💻 Full-Stack Developer | 🐍 Python & Django Lover | 🇮🇷 Based in Iran</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+  <img src="https://i.imgur.com/3Z6Jb8T.gif" alt="coding purple girl banner" width="100%" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,html,css,js,bootstrap,redis,git,linux,docker,postgresql" />
 </p>
----
+
 
 ### 📊 GitHub Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaryamKalantarii&show_icons=true&theme=radical" width="47%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamKalantarii&layout=compact&theme=radical" width="47%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamKalantarii&theme=radical" width="60%" /> </p>
