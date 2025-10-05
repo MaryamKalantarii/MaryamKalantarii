@@ -5,9 +5,9 @@
 
 
 <!-- Purple Skills Banner -->
-<p align="center">
+<!-- <p align="center">
   <!-- Replace this SVG link later with a hosted version if you want -->
   <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/purple-skills-banner.svg" width="100%" alt="Skills Banner"/>
-</p>
+</p> -->
 
 
