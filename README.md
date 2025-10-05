@@ -1,8 +1,8 @@
 <p align="center">
   <a>
     <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg"
-         width="100%"
-         style="max-height:150px; object-fit:cover; border-radius:20px; box-shadow:0 0 30px #c8a2c8;" />
+         width="100%",height:"30%"
+         style="max-height:350px; object-fit:cover; border-radius:20px; box-shadow:0 0 30px #c8a2c8;" />
   </a>
 </p>
 
