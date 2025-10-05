@@ -2,7 +2,7 @@
   <img 
     src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg"
     width="100%"
-    style="max-height:120px; border-radius:15px; object-fit:cover;"
+    style="max-height:10px; border-radius:15px; object-fit:cover;"
   />
 </p>
 
