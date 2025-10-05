@@ -14,7 +14,8 @@
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="400" y="0" height="60" width="60"/>
 
     <!-- Row 2 -->
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="40" y="80" height="60" width="60"/>
+    <a href="https://youtube.com/@peterthehan">
+    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
     <image href="https://skillicons.dev/icons?i=fastapi" x="120" y="80" height="60" width="60"/>
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="200" y="80" height="60" width="60"/>
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="280" y="80" height="60" width="60"/>
