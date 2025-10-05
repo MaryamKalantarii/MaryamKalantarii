@@ -1,9 +1,10 @@
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg" width="250" style="border-radius: 50%; box-shadow: 0 0 20px #b19cd9;" />
+    <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg"
+         width="100%"
+         style="max-height:350px; object-fit:cover; border-radius:20px; box-shadow:0 0 30px #c8a2c8;" />
   </a>
 </p>
-
 
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
