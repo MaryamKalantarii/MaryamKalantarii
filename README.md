@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" width="100%">
   <img width="100%" src="https://github.com.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg" alt="cover" />
 </div>
     
