@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg" width="100%" style="max-height:300px; object-fit:cover;" />
+    <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg" width="250" style="border-radius: 50%; box-shadow: 0 0 20px #b19cd9;" />
   </a>
 </p>
 
