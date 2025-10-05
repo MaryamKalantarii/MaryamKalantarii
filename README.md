@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" src="https://github.com/MaryamKalantarii/MaryamKalantarii/main/assets/" alt="cover" />
+  <img width="100%" src="https://github.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg" alt="cover" />
 </div>
     
 
