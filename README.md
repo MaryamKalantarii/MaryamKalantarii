@@ -5,6 +5,6 @@
 
 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1643514588/73764/laptop_parrot.gif?1643514588" width="40" />
-<img src="https://emojis.slackmojis.com/emojis/images/1643514700/73768/typing.gif?1643514700" width="40" />
-<img src="https://emojis.slackmojis.com/emojis/images/1643514573/73763/dev_parrot.gif?1643514573" width="40" />
+<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="40" />
+<img src="https://cultofthepartyparrot.com/partyparrot.gif" width="40" />
+<img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="40" />
