@@ -1,27 +1,2 @@
-<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background wave -->
-  <path d="M0,100 C300,200 900,0 1200,150 L1200,300 L0,300 Z" fill="#b19cd9" opacity="0.8"/>
-  <path d="M0,150 C400,250 800,50 1200,200 L1200,300 L0,300 Z" fill="#d8b7ff" opacity="0.9"/>
-
-  <!-- Hexagon style icons -->
-  <g transform="translate(100,40)">
-    <!-- Row 1 -->
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="0" y="0" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" x="80" y="0" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="160" y="0" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="240" y="0" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="320" y="0" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="400" y="0" height="60" width="60"/>
-
-    <!-- Row 2 -->
-    <a href="https://youtube.com/@peterthehan">
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
-    <image href="https://skillicons.dev/icons?i=fastapi" x="120" y="80" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="200" y="80" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="280" y="80" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" x="360" y="80" height="60" width="60"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" x="440" y="80" height="60" width="60"/>
-  </g>
-</svg>
 
 
