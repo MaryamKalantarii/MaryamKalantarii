@@ -5,6 +5,3 @@
 
 
 
-<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="40" />
-<img src="https://cultofthepartyparrot.com/partyparrot.gif" width="40" />
-<img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="40" />
