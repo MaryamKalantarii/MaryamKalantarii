@@ -1,8 +1,5 @@
 
-<div align="center" width="100%" height="2px">
-  <img width="100%" src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg" alt="cover" />
-</div>
-    
+
 
 
 
