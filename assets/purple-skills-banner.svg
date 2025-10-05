@@ -6,7 +6,7 @@
   <!-- Hexagon style icons -->
   <g transform="translate(100,40)">
     <!-- Row 1 -->
-    <img href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="0" y="0" height="60" width="60"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="0" y="0" height="60" width="60"/>
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" x="80" y="0" height="60" width="60"/>
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="160" y="0" height="60" width="60"/>
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="240" y="0" height="60" width="60"/>
@@ -22,4 +22,5 @@
     <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" x="440" y="80" height="60" width="60"/>
   </g>
 </svg>
+
 
