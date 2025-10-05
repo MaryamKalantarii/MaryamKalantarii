@@ -96,4 +96,3 @@
 </p>
 -->
 
-# Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
