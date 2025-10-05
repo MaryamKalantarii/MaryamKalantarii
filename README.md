@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="max-height:10px;>
   <img 
     src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/photo21230138328.jpg"
     width="100%"
