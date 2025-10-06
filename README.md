@@ -1,11 +1,17 @@
-<div>
+<!-- <div>
   <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/rt.jpg"
     width="100%"
     style="max-height:120px; border-radius:15px; object-fit:cover;"
     />
-</div>
+</div> -->
 
-
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/rt.jpg"
+    width="100%"
+    style="max-height:200px; border-radius:20px; box-shadow:0 0 20px #c8a2c8; object-fit:cover;"
+  />
+</p>
 
 
 
