@@ -5,14 +5,14 @@
   />
 </div>
 
-<!-- <h2 align="center">
+<h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
   Hi, welcome!
-</h2> -->
-<h2 align="center">
+</h2>
+<!-- <h2 align="center">
   <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download" width="40" />
   Hi, welcome!
-</h2>
+</h2> -->
 <p align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 </p>
@@ -30,7 +30,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://slackmojis.com/emojis/31011-meow_bongo-keyboard/download" width="32" style="vertical-align:middle; margin-right:6px;" />
+  <img src="https://slackmojis.com/emojis/31011-meow_bongo-keyboard/download" width="34" style="vertical-align:middle; margin-right:6px;" />
   About Me
 </h3>
 
