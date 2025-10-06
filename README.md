@@ -14,17 +14,19 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 </p>
 
-<h3 align="center">
+<!-- <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
   <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Daily Quotations</a>
-</h3>
+</h3> -->
 
 ---
 
-<h3 align="center">💫 About Me</h3>
+<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+  <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Daily Quotations</a> About Me</a>
+</h3>
 
 <p align="center">
-  I'm <b>Mohadese</b> — a <b>Full-Stack Web Developer</b> passionate about designing and developing scalable, elegant web applications.
+  I'm <b>Maryam</b> — a <b>Full-Stack Web Developer</b> passionate about designing and developing scalable, elegant web applications.
   <br/>
   I love working on <b>APIs, backend logic, and modern frontend interfaces</b> to build seamless user experiences.
   <br/><br/>
