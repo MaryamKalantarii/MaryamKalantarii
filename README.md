@@ -21,7 +21,7 @@
 
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-  <a href="https://maryamkalantarii.github.io/blog" target="_blank">Latest Articles & Dev Thoughts ✍️</a>
+  <a src="https://maryamkalantarii.github.io/" target="_blank">Latest Articles & Dev Thoughts ✍️</a>
 </h3>
 
 
