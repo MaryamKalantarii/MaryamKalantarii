@@ -25,7 +25,7 @@
 </h3>
 
 ---
-
+<h3 align="center">About Me</h3>
 <h3 align="center">
   <img src="https://slackmojis.com/emojis/31011-meow_bongo-keyboard/download" width="32" style="vertical-align:middle; margin-right:6px;" />
   About Me
