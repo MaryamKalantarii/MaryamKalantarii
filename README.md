@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="center">💫 About Me</h3>
+<h3 align="center"><img src="https://slackmojis.com/emojis/31011-meow_bongo-keyboard/download" About Me</h3>
 
 <p align="center">
   I'm <b>Maryam</b> — a <b>Full-Stack Web Developer</b> passionate about designing and developing scalable, elegant web applications.
