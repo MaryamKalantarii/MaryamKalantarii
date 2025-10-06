@@ -19,11 +19,14 @@
   <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Daily Quotations</a>
 </h3> -->
 
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+  Always coding... sometimes sleeping 💤
+</h3>
+
 ---
 
-<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-  <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">About Me</a>
-</h3>
+<h3 align="center">💫 About Me</h3>
 
 <p align="center">
   I'm <b>Maryam</b> — a <b>Full-Stack Web Developer</b> passionate about designing and developing scalable, elegant web applications.
@@ -59,15 +62,15 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohadese-doosti-2a8644373/" target="_blank">
+  <a href="https://www.linkedin.com/in/maryam-kalantari-560804361/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/YourUsername" target="_blank">
+  <a href="https://github.com/MaryamKalantarii" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:maryamkalantaria72@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
