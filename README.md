@@ -10,7 +10,7 @@
   Hi, welcome!
 </h2> -->
 <h2 align="center">
-  <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download" width="30" />
+  <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download" width="40" />
   Hi, welcome!
 </h2>
 <p align="center">
