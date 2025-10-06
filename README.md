@@ -22,7 +22,7 @@
 ---
 
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-  <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Daily Quotations</a> About Me</a>
+  <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">About Me</a>
 </h3>
 
 <p align="center">
