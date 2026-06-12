@@ -4,10 +4,10 @@ width="600" height="450" style="border-radius: 12px; object-fit: fill;"
   />
 </div>
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="28" />
   Hi, welcome!
-</h2>
+</h2> -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
