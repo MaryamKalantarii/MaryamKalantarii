@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/a4ffed71895d791aa48b1b331ca76b99.jpg"
+  <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/"
     width="100%"
     style="max-height:120px; border-radius:15px; object-fit:cover;"
   />
