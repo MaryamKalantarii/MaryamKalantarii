@@ -14,11 +14,9 @@ width="600" height="450" style="border-radius: 12px; object-fit: fill;"
 </p>
 
 <h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif" width="26" />
   <a href="https://maryamkalantarii.github.io/" target="_blank">
     Latest Articles & Dev Thoughts
   </a>
-  🐾
 </h3>
 
 ---
