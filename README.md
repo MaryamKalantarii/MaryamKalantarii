@@ -5,31 +5,23 @@ width="600" height="450" style="border-radius: 12px; object-fit: fill;"
 </div>
 
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="28" />
   Hi, welcome!
 </h2>
-<!-- <h2 align="center">
-  <img src="https://slackmojis.com/emojis/12597-meow_heart_bongo/download" width="40" />
-  Hi, welcome!
-</h2> -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </p>
 
-<!-- <h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-  <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">Daily Quotations</a>
-</h3> -->
-
 <h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
-  <a href="https://maryamkalantarii.github.io/" target="_blank">Latest Articles & Dev Thoughts</a>🐾
+  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="24" />
+  <a href="https://maryamkalantarii.github.io/" target="_blank">Latest Articles & Dev Thoughts</a> 🐾
 </h3>
 
 ---
 
 <h3 align="center">
- <img src="https://slackmojis.com/emojis/31011-meow_bongo-keyboard/download" width="40" style="vertical-align:middle; margin-right:6px;" /> About Me
+  <img src="https://slackmojis.com/emojis/31011-meow_bongo-keyboard/download" width="32" style="vertical-align:middle; margin-right:6px;" /> About Me
 </h3>
 
 <p align="center">
@@ -37,11 +29,11 @@ width="600" height="450" style="border-radius: 12px; object-fit: fill;"
   <br/>
   I love working on <b>APIs, backend logic, and modern frontend interfaces</b> to build seamless user experiences.
   <br/><br/>
-  ⚙️ Specialized in backend architecture using Django & FastAPI  
-  🎨 Frontend with React, HTML, and CSS  
-  📡 Database design & management with various SQL systems  
-  🚀 Task automation and async processing with Celery & Redis  
-  🧩 Version control and collaboration with GitHub  
+  ⚙️ Specialized in backend architecture using Django & FastAPI &nbsp;|&nbsp;
+  🎨 Frontend with React, HTML, and CSS &nbsp;|&nbsp;
+  📡 Database design & management (PostgreSQL, SQLite) &nbsp;|&nbsp;
+  🚀 Task automation with Celery & Redis &nbsp;|&nbsp;
+  🧩 Version control & collaboration via GitHub
 </p>
 
 ---
@@ -69,17 +61,15 @@ width="600" height="450" style="border-radius: 12px; object-fit: fill;"
   <a href="https://www.linkedin.com/in/maryam-kalantari-560804361/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/MaryamKalantarii" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:maryamkalantaria72@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
 
 
 
