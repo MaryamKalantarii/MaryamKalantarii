@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MaryamKalantarii/MaryamKalantarii/main/assets/mm.jpg"
-    width="80"
-    height="80"
-    style="border-radius: 50%; object-fit: cover;"
-    alt="avatar"
+width="100" height="70" style="border-radius: 12px; object-fit: fill;"
   />
 </div>
 
